@@ -1,0 +1,5 @@
+{
+  "items": [
+    ["script/main", "src/main.js", "script"]
+  ]
+}
