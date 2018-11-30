@@ -1,0 +1,24 @@
+{
+  "name": "ludum-dare-43",
+  "version": "1.0.0",
+  "description": "Ludum Dare Entry",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "aucguy-ludum-dare-base": "^1.0.4",
+    "gulp": "^3.9.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aucguy/Ludum-Dare-43.git"
+  },
+  "author": "aucguy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aucguy/Ludum-Dare-43/issues"
+  },
+  "homepage": "https://github.com/aucguy/Ludum-Dare-43#readme"
+}
